@@ -213,3 +213,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#datasets
+training/face
+training/faces
+training/face2
+training/nonfaces
