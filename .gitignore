@@ -219,3 +219,5 @@ training/face
 training/faces
 training/face2
 training/nonfaces
+
+*.exe
